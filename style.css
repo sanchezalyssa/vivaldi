@@ -27,7 +27,7 @@ body {
 }
 .title-text {
   font-weight: 700;
-  font-size: 19px;
+  font-size: 23px;
 }
 .title,
 #date {
@@ -63,7 +63,7 @@ th {
 }
 .valid {
   text-align: center;
-  margin: 30px 0;
+  margin: 40px 0;
 }
 .rooms-container {
   margin-top: 20px;
