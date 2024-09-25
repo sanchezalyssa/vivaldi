@@ -9,11 +9,11 @@ html {
 body {
   margin-top: 50px;
   padding: 10px;
-  background-color: #eaeef1;
+  background-color: gainsboro;
   font-weight: bold;
 }
 .watermark {
-  width: 500px;
+  width: 600px;
   position: fixed;
   top: 150px;
   left: 0;
